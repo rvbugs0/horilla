@@ -1,3 +1,5 @@
+# Author - Ravi
+# Date - 2022-04-22
 """
 Django settings for horilla project.
 
